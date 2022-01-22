@@ -1,0 +1,4 @@
+expo build:android
+expo build:ios
+expo start
+expo init <project_name>
